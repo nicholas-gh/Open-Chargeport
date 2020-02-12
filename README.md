@@ -10,7 +10,7 @@ As there is no such thing on a standard Type 2 charge cable, i now have to open 
 
 Therefore i wanted to make my own transmitter that opens the chargeport.
 
-Credits to Banahogg who documented his attempts to analyze the RF data here
+Credits to Banahogg who documented his attempts to analyze the RF data at https://teslamotorsclub.com/tmc/threads/get-j1772-adapter-to-pop-charge-port-door.14190/
 which helped me finish this project in a few days.
 
 The components needed:
